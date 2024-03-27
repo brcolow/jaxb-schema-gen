@@ -1,4 +1,4 @@
-@Grab(group='org.glassfish.jaxb', module='jaxb-jxc', version='4.0.1')
+@Grab(group='org.glassfish.jaxb', module='jaxb-jxc', version='4.0.5')
 import com.sun.tools.ws.WsGen
 
 import java.lang.RuntimeException;

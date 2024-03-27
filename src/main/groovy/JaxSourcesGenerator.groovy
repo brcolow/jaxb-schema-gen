@@ -1,4 +1,4 @@
-@Grab(group='org.glassfish.jaxb', module='jaxb-xjc', version='4.0.4')
+@Grab(group='org.glassfish.jaxb', module='jaxb-xjc', version='4.0.5')
 import com.sun.tools.ws.WsImport
 
 import java.nio.charset.StandardCharsets
